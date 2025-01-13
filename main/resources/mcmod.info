@@ -1,0 +1,16 @@
+[
+{
+  "modid": "muxaeat2",
+  "name": "MuxaEat 2",
+  "description": "Mod about food",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Plweq"],
+  "credits": "My first Minecraft mod",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
